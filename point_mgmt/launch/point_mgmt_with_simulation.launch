@@ -1,0 +1,13 @@
+<launch>
+
+	<include file="$(find cor_mdp_husky_gazebo)/launch/husky_samxl.launch"/>
+
+	<node
+		pkg="point_mgmt"
+		type="point_mgmt_node"
+		name="static_node"
+		ns="point_manager"
+		launch-prefix="gnome-terminal --command"
+	></node>
+
+</launch>

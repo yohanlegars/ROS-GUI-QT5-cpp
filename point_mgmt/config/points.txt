@@ -1,0 +1,5 @@
+WPT, charging_station, -3.35647, -0.225172
+WPT, front_side, 6.46026, -3.30049
+WPT, workspace_entry_point, 3.98524, -0.935455
+POI, testing_point_2, 6.40281, -5.50694, 0.638428
+POI, view_point_1, 6.99803, -6.43349, 0.512078
